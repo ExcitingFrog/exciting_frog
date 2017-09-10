@@ -1,3 +1,3 @@
 # excitingfrog
-sometimes too young too simple
-even naive
+ too young too simple
+sometimes naive
